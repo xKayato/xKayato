@@ -27,3 +27,6 @@ Hi, I'm **Thomas Deloup**, a 19-year-old student from France , currently studyin
 
 Thanks for visiting! 🚀✨
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xKayato&show_icons=true&theme=radical"/>
+</p>
