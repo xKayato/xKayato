@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**xKayato/xKayato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+Hi, I'm **Thomas Deloup**, a 19-year-old student from France , currently studying **Networks and Telecommunications**. Passionate about **networking** 🌐 and **cybersecurity** 🔒, I enjoy configuring network equipment, securing infrastructures, and exploring penetration testing techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 What I Do
+- 🖧 **Network Administration** – Configuring routers, switches, and firewalls (OSPF, VLAN, HSRP, STP...)
+- 🔐 **Cybersecurity & Pentesting** – Conducting security audits and penetration testing
+- 💻 **Programming** – Developing in **Java, PHP, Python, C and Android Studio** for networking applications
+- 📡 **Telecom & Infrastructure** – Designing and maintaining network architectures
+
+## 🛠️ Technologies & Tools
+- **Networking:** Cisco, Linux networking, Wireshark 🕵️
+- **Cybersecurity:** Metasploit, Burp Suite, Nmap, Nessus 🔍
+- **Development:** Java ☕, PHP, SQLite, C, Python Android Studio 📱
+- **Virtualization:** VMware, VirtualBox 🖥️
+
+## 📫 Connect with Me
+- 💼 [LinkedIn]([https://www.linkedin.com/in/thomas-deloup](https://www.linkedin.com/in/thomasdeloup/))
+- 📧 [Email](mailto:thomas.deloup@etu.unice.fr)
+- 🏠 [Portfolio](https://deloup.odoo.com)
+
+Thanks for visiting! 🚀✨
+
