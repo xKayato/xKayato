@@ -17,7 +17,7 @@ Hi, I'm **Thomas Deloup**, a 19-year-old student from France , currently studyin
 - **Virtualization:** VMware, VirtualBox 🖥️
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn]([https://www.linkedin.com/in/thomas-deloup](https://www.linkedin.com/in/thomasdeloup/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/thomasdeloup/)
 - 📧 [Email](mailto:thomas.deloup@etu.unice.fr)
 - 🏠 [Portfolio](https://deloup.odoo.com)
 
